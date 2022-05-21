@@ -1,13 +1,14 @@
 <html>
+ <body>
   <head>
-  </head>
   
-  <body>
+  </head>
     <h1>test</h1>
-  </body>
+
   
 
   
   <footer>
   </footer>
+ </body>
 </html>
