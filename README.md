@@ -1,2 +1,2 @@
 # hopesdiebiri.github.io
-Web
+YAKINDA AÇILACAKTIR. (powered by github.com)
