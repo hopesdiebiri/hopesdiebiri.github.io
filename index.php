@@ -1,8 +1,12 @@
 <html>
+  <head>
+  </head>
+  
   <body>
+    <h1>test</h1>
   </body>
   
-  <h1>test</h1>
+
   
   <footer>
   </footer>
