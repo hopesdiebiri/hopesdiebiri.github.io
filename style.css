@@ -8,7 +8,7 @@ body {
     line-height: 28px;
 }
 .hata-bolumu {
-    background: #2C2F33;
+    background: #23272A;
 }
 
 .content {
@@ -19,7 +19,7 @@ body {
     -webkit-box-shadow: 0 -1px 42px -1px rgba(0, 0, 0, 0.19);
     -moz-box-shadow: 0 -1px 42px -1px rgba(0, 0, 0, 0.19);
     box-shadow: 0 -1px 42px -1px rgba(0, 0, 0, 0.19);
-    background-color: #fff;
+    background-color: #2C2F33;
     text-align: center;
     padding: 150px 100px 0;
     border-radius: 55px;
