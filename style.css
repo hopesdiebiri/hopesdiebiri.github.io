@@ -8,7 +8,7 @@ body {
     line-height: 28px;
 }
 .hata-bolumu {
-    background: url(../kaynak/hatabg.jpg);
+    background: url(/hatabg.jpg);
 }
 
 .content {
@@ -34,9 +34,9 @@ body {
     color: #9ca2a5;
 }
 .btn-default {
-    background-color: #FF5733;
+    background-color: #ce4735;
     color: #fff;
-    border: 2px solid #fcb040;
+    border: 2px solid #ce4735;
     border-radius: 5px;
 }
 .btn {
