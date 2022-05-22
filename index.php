@@ -14,13 +14,13 @@
 
 <html>
   <head>
-    <!-- Meta etiketleri ile ek bilgiler veriliyor -->
-    <meta name="author" content="Acemi tasarımcı">
-    <meta name="description" content="Acemi tasarımcı web okulu">
+
+    <meta name="author" content="hopes">
+    <meta name="description" content="hopesdiebiri">
     <meta name="keywords" content="web,html,css">
     <meta http-equiv="content" content-type="text/html; charset=iso-8859-9">
-    <title>İlk HTML Denemem</title>
-  </head>
+    <title>Test Webpanel</title>
+  </>
 
   <!-- Body etiketi ile sayfamızdaki renkleri ayarlıyoruz -->
   <body text="#000000" bgcolor="#ffffff" link="#808080" vlink="#eaeaea" alink="#000000">
