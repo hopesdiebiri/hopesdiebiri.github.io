@@ -43,9 +43,27 @@ background-color: #7289da;
 .white-button {
   background-color: #fff;
   border: 2px solid #fff;
-  color: #000;
+  clor: #000;
 }
 
-.body {
+body {
   background: #23272A;
+}
+
+body {
+
+    -webkit-font-smoothing: antialiased;
+
+    text-rendering: optimizeLegibility;
+
+    letter-spacing: 0;
+
+    font-size: 18px;
+
+    color: #50595e;
+
+    font-weight: 400;
+
+    line-height: 28px;
+
 }
