@@ -63,4 +63,4 @@
 
     <!-- Sayfanın başında başlatmış olduğumuz body etiketini bitiriyoruz. -->
   </body>
-</html>
+</>
