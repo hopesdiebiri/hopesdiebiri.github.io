@@ -62,5 +62,5 @@
     <hr width=80%>
 
     <!-- Sayfanın başında başlatmış olduğumuz body etiketini bitiriyoruz. -->
-  </body>
+  </>
 </>
