@@ -38,6 +38,7 @@ body {
     color: #fff;
     border: 2px solid #7289DA;
     border-radius: 10px;
+    bottom: 30px;
 }
 .btn {
     font-family: 'Barlow Semi Condensed', sans-serif;
