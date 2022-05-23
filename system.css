@@ -1,3 +1,19 @@
 body {
   background: #23272A;
 }
+
+.hopesbox {
+  background: #2C2F33;
+  wight: 100%;
+  color: #fff;
+}
+.hopesbox-menutitle {
+  color: #FFD700;
+  float: left;
+}
+.hopesbox-menu {
+  float: right;
+}
+.hopesbox-menutext {
+  color: #E9967A;
+}
