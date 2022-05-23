@@ -6,6 +6,8 @@ body {
   background: #2C2F33;
   wight: 100%;
   color: #fff;
+  height: 100%;
+  margin-top: 50px;
 }
 .hopesbox-menutitle {
   color: #FFD700;
